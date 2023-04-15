@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->load->module('${1:Module Directory/Name}');
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>load_module</tabTrigger>
+	<description>HMVC CI - Load Module Controller</description>
+</snippet>

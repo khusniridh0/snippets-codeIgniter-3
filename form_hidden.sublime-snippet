@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+form_hidden('${1:name}', '${2:value}');
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>form_hidden</tabTrigger>
+	<description>CI - Form Helper - Hidden Field</description>
+</snippet>

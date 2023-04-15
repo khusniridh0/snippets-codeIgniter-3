@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$${1:Var}->num_rows();
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>db_num_rows</tabTrigger>
+	<description>CI - Active Record DB Num Rows</description>
+</snippet>

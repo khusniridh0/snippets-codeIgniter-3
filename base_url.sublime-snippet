@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+base_url('${1:}')
+]]></content>
+	<tabTrigger>ci_base</tabTrigger>
+	<description>CI - URL Helper - base_url</description>
+</snippet>

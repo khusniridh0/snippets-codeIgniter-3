@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+form_checkbox(${1:name}, ${2:value}, TRUE);
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>form_checkbox</tabTrigger>
+	<description>CI - Form Helper - Checkbox</description>
+</snippet>

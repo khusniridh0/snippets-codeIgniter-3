@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$this->db->insert_id();
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>db_insert_id</tabTrigger>
+    <description>CI - Active Record DB Last Inserted Id</description>
+</snippet>

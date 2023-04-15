@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->db->affected_rows();
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>db_affected</tabTrigger>
+	<description>CI - Active Record DB Affected Rows</description>
+</snippet>

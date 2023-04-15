@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$${1:Var}->result_array();
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>db_result_array</tabTrigger>
+	<description>CI - Active Record DB Result Array</description>
+</snippet>

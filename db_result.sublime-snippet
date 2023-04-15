@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$${1:Var}->result();
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>db_result</tabTrigger>
+	<description>CI - Active Record DB Result</description>
+</snippet>

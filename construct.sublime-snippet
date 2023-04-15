@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+public function __construct()
+{
+	parent::__construct();
+	${0://Do your magic here}
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>construct</tabTrigger>
+	<description>CI - Class Constructor</description>
+</snippet>

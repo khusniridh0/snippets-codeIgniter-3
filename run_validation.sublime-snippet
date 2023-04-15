@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->form_validation->run()
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>run_validation</tabTrigger>
+	<description>CI - Run form validation</description>
+</snippet>

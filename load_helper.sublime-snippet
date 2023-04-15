@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->load->helper('${1:Helper Name}');
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>load_helper</tabTrigger>
+	<description>CI - Load Helper File</description>
+</snippet>

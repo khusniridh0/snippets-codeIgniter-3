@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+form_upload('${1:name}');
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>form_upload</tabTrigger>
+	<description>CI - Form Helper - Upload Field</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->session->all_userdata();
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>session_all_userdata</tabTrigger>
+	<description>CI - Session - Retrieving All Session Data</description>
+</snippet>

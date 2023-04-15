@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+redirect('${1:}','refresh')
+]]></content>
+	<tabTrigger>redirect</tabTrigger>
+	<description>CI - URL Helper - redirect</description>
+</snippet>

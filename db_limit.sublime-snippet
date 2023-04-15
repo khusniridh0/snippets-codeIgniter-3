@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+\$this->db->limit(${1:num});
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>db_limit</tabTrigger>
+	<description>CI - Active Record DB Helper Functions</description>
+</snippet>

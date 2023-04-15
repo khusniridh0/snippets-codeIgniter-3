@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$${1:CI} =& get_instance();
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>get_instance</tabTrigger>
+	<description>CI - Assign the CodeIgniter object to a variable</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->db->delete('${1:Table}');
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>db_delete</tabTrigger>
+	<description>CI - Active Record DB Delete</description>
+</snippet>

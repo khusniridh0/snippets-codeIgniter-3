@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+form_open('${1:url}', '', \$hidden);
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>form_open</tabTrigger>
+	<description>CI - Form Open</description>
+</snippet>

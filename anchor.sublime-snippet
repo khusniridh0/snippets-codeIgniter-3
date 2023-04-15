@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+anchor('${1:url}', '${2:linkname}', '${3:attributes}');
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>anchor</tabTrigger>
+	<description>CI - Anchor Helper</description>
+</snippet>

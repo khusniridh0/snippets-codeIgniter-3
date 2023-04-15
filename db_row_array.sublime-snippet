@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$${1:Var}->row_array();
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>db_row_array</tabTrigger>
+	<description>CI - Active Record DB Row Array</description>
+</snippet>

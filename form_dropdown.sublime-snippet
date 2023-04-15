@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+form_dropdown('${1:name}', \$options, '${2:default}');
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>form_dropdown</tabTrigger>
+	<description>CI - Form Helper - Dropdown</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+\$this->db->group_by('${1:title}');
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>db_group</tabTrigger>
+	<description>CI - Active Record DB Group By</description>
+</snippet>

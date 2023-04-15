@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->db->select('${1:field1, field2}');
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>db_select</tabTrigger>
+	<description>CI - Active Record DB Select</description>
+</snippet>

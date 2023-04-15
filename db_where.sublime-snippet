@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->db->where('${1:Field / comparison}', \$${2:Value});
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>db_where</tabTrigger>
+	<description>CI - Active Record DB Where</description>
+</snippet>

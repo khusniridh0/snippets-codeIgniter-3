@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+site_url('${1:}')
+]]></content>
+	<tabTrigger>site</tabTrigger>
+	<description>CI - URL Helper - site_url</description>
+</snippet>

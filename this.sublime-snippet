@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[\$${1:this}->$2]]></content>
+  <tabTrigger>th</tabTrigger>
+  <description>PHP - $this or other object use</description>
+</snippet>
